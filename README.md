@@ -1,7 +1,3 @@
-Az alábbiakban a teljes wiki magyar fordítása következik, minden aloldallal együtt.
-
----
-
 1. PROJEKT ÁTTEKINTÉS
 
 A DANCING projekt egy hibrid kvantum-relációs számítási keretrendszer, amelyet összetett tudásstruktúrák reprezentálására, optimalizálására és ellenőrzésére terveztek. A rendszer egy alapvető relációs gráfmodellt kvantumállapot-szimulációval, temporális verziókezeléssel és formális ellenőrzéssel integrálva lehetővé teszi a nagy pontosságú következtetést többdimenziós adatkészleteken.
